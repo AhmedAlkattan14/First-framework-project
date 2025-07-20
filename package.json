@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/AhmedAlkattan14/First-framework-project.git",
+  "homepage": "https://ahmedalkattan14.github.io/First-framework-project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
